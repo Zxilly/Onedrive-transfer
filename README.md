@@ -1,4 +1,7 @@
 # Onedrive-transfer
+
+**This program is outdated.No more maintenance**
+
 A C++ tool used for transfering files from baidupcs to onedrive
 
 the project was based on `Onedrivecmd` and `Baidupcs-Go`.
